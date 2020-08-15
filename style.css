@@ -1,0 +1,65 @@
+body{
+    background: rgb(250, 250, 250);
+}
+
+#header a:hover{
+    color: rgb(233, 81, 106);
+}
+
+#bgimg{
+    background: url('images/bg-image.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    min-height: 600px;
+    background-position: center;
+}
+
+#aboutme{
+    margin-top: -40px;
+}
+
+#aboutme .fa{
+    color: #FFFFFF;
+}
+
+#aboutme .fa:hover{
+    color: rgb(253, 90, 15);
+}
+
+
+ #aboutme span{
+     padding-left: 15px;
+     padding-right: 15px;
+     padding-bottom: 20px;
+     padding-top: 20px;
+ }
+
+ #aboutme hr{
+     border-width: 3px;
+ }
+
+ #myskills span {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+ }
+
+ #myskills hr{
+     border-width: 3px;
+ }
+
+ #myexperience span {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+ }
+
+ #myexperience hr{
+     border-width: 3px;
+ }
+
+#contactme .container{
+    background-color: #280753;
+}
